@@ -33,3 +33,4 @@ The Presentation layer is based on the **MVI** (Model-View-Intent) approach. Vie
 1. **UI Enhancements**: Improve the UI by adding loading indicators and error messages. Dates should be displayed in a readable format, not as timestamps.
 2. **RecyclerViews**: Adapters and ViewHolders should be reusable, and DiffUtil should be applied to optimize screen updates.
 3. **Code Improvements**: Refer to project TODOs for further improvements.
+4. **Remote Logic**: Pagination is a must. WebSockets are also must.
